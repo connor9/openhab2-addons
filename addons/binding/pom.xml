@@ -34,6 +34,7 @@
     <module>org.openhab.binding.coolmasternet</module>
     <module>org.openhab.binding.denonmarantz</module>
     <module>org.openhab.binding.dlinksmarthome</module>
+    <module>org.openhab.binding.draytonwiser</module>
     <module>org.openhab.binding.dscalarm</module>
     <module>org.openhab.binding.dsmr</module>
     <module>org.openhab.binding.dsmr.test</module>
